@@ -6,5 +6,4 @@ Curso do framework bootstrap ministrado na DIO.me
 https://curso-bootstrap-dio.vercel.app/
 ## Link com dominio io
 https://wilhiamjr.github.io/Curso_Bootstrap_Dio/
-## Link Dominio Personalizado
-www.salaodecabelo.com.br
+
